@@ -1,0 +1,67 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SmartEnergyMeter</string>
+    <string name="title_activity_home">Home</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="reading">Display Readings</string>
+    <string name="type_registered_email_to_receive_password_reset_link">Type Registered Email to receive password reset link</string>
+    <string name="re_type_registered_email">Re-Type Registered Email</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="email_hint">Registered Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="get_password_link">Send Reset Link</string>
+    <string name="back">Return</string>
+    <string name="password_retype">Type Password</string>
+    <string name="turn_on">Turn On</string>
+    <string name="list_devices">List devices</string>
+    <string name="get_visible">Get visible</string>
+    <string name="paired_devices">Paired devices:</string>
+    <string name="turn_off">turn off</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="bluetooth_devices">Bluetooth Devices</string>
+
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+    <string name="bluetooth">Bluetooth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secure_connect">Secure Connect</string>
+    <string name="insecure_connect">Insecure Connect</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="smart_meter">Smart Meter</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="bluetooth_data">Bluetooth Data</string>
+    <string name="logout">Logout</string>
+    <string name="update_password">Update Password</string>
+    <string name="view_graph">View Graph</string>
+    <string name="welcome">Welcome!</string>
+    <string name="begin">Begin</string>
+    <string name="stop">Stop</string>
+    <string name="clear">Clear</string>
+    <string name="update">Update</string>
+    <string name="instantaneus_readings">Instantaneus Readings</string>
+    <string name="voltage">Voltage</string>
+    <string name="action_settings">Action Settingd</string>
+    <string name="arduino_data">Arduino Data</string>
+    <string name="current">Current</string>
+</resources>
